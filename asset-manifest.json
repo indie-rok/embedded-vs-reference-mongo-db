@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/embedded-vs-reference-mongo-db/static/css/main.584f321a.chunk.css",
+    "main.js": "/embedded-vs-reference-mongo-db/static/js/main.3d2d82d2.chunk.js",
+    "main.js.map": "/embedded-vs-reference-mongo-db/static/js/main.3d2d82d2.chunk.js.map",
+    "runtime~main.js": "/embedded-vs-reference-mongo-db/static/js/runtime~main.96f4dff3.js",
+    "runtime~main.js.map": "/embedded-vs-reference-mongo-db/static/js/runtime~main.96f4dff3.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/embedded-vs-reference-mongo-db/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/embedded-vs-reference-mongo-db/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/embedded-vs-reference-mongo-db/index.html",
+    "precache-manifest.6398033d46b8abea5a7157aa5c47bdd2.js": "/embedded-vs-reference-mongo-db/precache-manifest.6398033d46b8abea5a7157aa5c47bdd2.js",
+    "service-worker.js": "/embedded-vs-reference-mongo-db/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/embedded-vs-reference-mongo-db/static/css/main.584f321a.chunk.css.map"
+  }
+}
